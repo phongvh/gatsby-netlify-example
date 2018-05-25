@@ -3,6 +3,7 @@ backend:
   repo: phongvh/gatsby-netlify-example #replace with your username/repo
 
 media_folder: static/assets
+public_folder: assets
 
 collections:
   - name: blog
